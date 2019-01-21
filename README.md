@@ -6,7 +6,7 @@ The data dive continues!
 
 Now, it's time to take Python Pandas and apply it to new situations. For this assignment, complete the Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
 
-## Option 1: Heroes of Pymoli
+## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.jpg)
 
@@ -72,3 +72,20 @@ Final report includes each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+
+
+### Considerations
+
+* These are challenging activities for a number of reasons. For one, this activity will required analysis of thousands of records. Hacking through the data to look for obvious trends in Excel is just not a feasible option. The size of the data may seem daunting, but pandas has allowed me to to efficiently parse through it.
+
+* Second, these activities will also challenge requires learning on your feet. Don't not be fooled into thinking: "I need to study pandas more closely before diving in." This assignments requires getting the basic gist of the library and then _immediately_ getting to work. When facing a daunting task, it's easy to think: "I'm just not ready to tackle it yet." But that's the surest way to never succeed. Learning to program requires one to constantly tinker, experiment, and learn on the fly. You are doing exactly the _right_ thing, if you find yourself constantly practicing Google-Fu and diving into documentation. There is just no way (or reason) to try and memorize it all. Online references are available for you to use when you need them. So use them!
+
+* Take each of these tasks one at a time. Begin your work, answering the basic questions: "How do I import the data?" "How do I convert the data into a DataFrame?" "How do I build the first table?" Don't get intimidated by the number of asks. Many of them are repetitive in nature with just a few tweaks. Be persistent and creative!
+
+* Expect these exercises to take time! Don't get discouraged if you find yourself spending  hours initially with little progress. Force yourself to deal with the discomfort of not knowing and forge ahead. Consider these hours an investment in your future!
+
+## Author
+
+Christine Ton
+
+
